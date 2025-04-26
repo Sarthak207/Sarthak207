@@ -58,5 +58,5 @@
 
 ### 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sarthak207/Sarthak207/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Sarthak207/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
