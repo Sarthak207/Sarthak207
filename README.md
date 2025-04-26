@@ -25,24 +25,24 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthak-pardeshi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak207&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-pardeshi&theme=radical" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak207&theme=radical" alt="Streak Stats"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarthak-pardeshi&theme=gruvbox&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sarthak207&theme=gruvbox&row=1&column=6" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 <p align="left">
-  <a href="https://github.com/sarthak-pardeshi/facial-recognition-attendance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthak-pardeshi&repo=facial-recognition-attendance&theme=radical" /></a>
-  <a href="https://github.com/sarthak-pardeshi/ipl-win-predictor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthak-pardeshi&repo=ipl-win-predictor&theme=radical" /></a>
+  <a href="https://github.com/Sarthak207/facial-recognition-attendance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarthak207&repo=facial-recognition-attendance&theme=radical" /></a>
+  <a href="https://github.com/Sarthak207/ipl-win-predictor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarthak207&repo=ipl-win-predictor&theme=radical" /></a>
 </p>
 
 ---
@@ -58,5 +58,5 @@
 
 ### 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sarthak-pardeshi/sarthak-pardeshi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Sarthak207/Sarthak207/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
