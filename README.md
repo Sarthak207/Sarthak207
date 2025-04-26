@@ -2,7 +2,7 @@
 <h3 align="center">Computer Vision geek 🤖 | Backend developer 💻 | Clean UI enthusiast 🎨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Building+real-world+AI+systems;FastAPI+%2B+FaceNet+%3D+🔥;Minimal+%26+Clean+UI+lover;Node.js+%7C+Clerk+%7C+Supabase+stack;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Building+real-world+AI+systems;FastAPI+%2B+FaceNet+%3D+🔥;Minimal+%26+Clean+UI+lover; Node.js+%7C+Clerk+%7C+Supabase+stack; Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 ---
